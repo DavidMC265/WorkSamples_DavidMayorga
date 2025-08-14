@@ -1,0 +1,49 @@
+{
+	"fileVersion": 15,
+	"versionSuffix": "",
+	"title": "Trainning2v2",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"compatibilityVersion": "36.10",
+	"requiredRedirectorStartingVersion": "33.30.39768313",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "Trainning2v2",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 4,
+			"maxTeamCount": 1,
+			"maxTeamSize": 4,
+			"maxSocialPartySize": 4,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"minPlayers": 1,
+			"overtimePlayerTarget": 1,
+			"queueMainDuration": 5,
+			"queueOvertimeDuration": 5,
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "c3337f56-4922-4938-2cfc-3eb1b2cc3905",
+		"modules":
+		{
+			"Trainning2v2": "6307ad52-4004-7498-1445-e68b9839fbca"
+		},
+		"projectVersePath": "/kogames@fortnite.com/Trainning2v2"
+	},
+	"apiAccess": "Private"
+}
