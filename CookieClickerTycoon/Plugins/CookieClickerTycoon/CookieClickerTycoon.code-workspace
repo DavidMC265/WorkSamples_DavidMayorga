@@ -1,0 +1,58 @@
+{
+    "folders": [
+        {
+            "name": "/invaliddomain/CookieClickerTycoon",
+            "path": "D:/Users/Documents/DavidOld/UEFN Maps/CookieClickerTycoon/Plugins/CookieClickerTycoon/Content"
+        },
+        {
+            "name": "/invaliddomain/CookieClickerTycoon (Assets)",
+            "path": "C:/Users/dmayo/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/CookieClickerTycoon/CookieClickerTycoon-Assets"
+        },
+        {
+            "name": "vproject - DO NOT MODIFY",
+            "path": "C:/Users/dmayo/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/CookieClickerTycoon/vproject"
+        },
+        {
+            "name": "/Verse.org",
+            "path": "C:/Users/dmayo/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/CookieClickerTycoon/Verse"
+        },
+        {
+            "name": "/UnrealEngine.com",
+            "path": "C:/Users/dmayo/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/CookieClickerTycoon/UnrealEngine"
+        },
+        {
+            "name": "/Fortnite.com",
+            "path": "C:/Users/dmayo/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/CookieClickerTycoon/Fortnite"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true,
+            "Collections": true,
+            "Developers": true
+        },
+        "files.autoSave": "onWindowChange",
+        "workbench.colorTheme": "Visual Studio Dark - C++",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}

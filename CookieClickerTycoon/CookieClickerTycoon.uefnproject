@@ -1,0 +1,45 @@
+{
+	"fileVersion": 15,
+	"versionSuffix": "",
+	"title": "CookieClickerTycoon",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"compatibilityVersion": "35.10",
+	"requiredRedirectorStartingVersion": "33.00.38504598",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "CookieClickerTycoon",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 1,
+			"maxTeamCount": 1,
+			"maxTeamSize": 1,
+			"maxSocialPartySize": 1,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "474fe35a-4c4d-61a3-074d-5b8b24f2ef07",
+		"modules":
+		{
+			"CookieClickerTycoon": "c65d577e-401c-cff4-53d1-86adb40ec234"
+		},
+		"projectVersePath": ""
+	},
+	"apiAccess": "Private"
+}
