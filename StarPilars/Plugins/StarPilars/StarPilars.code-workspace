@@ -1,0 +1,58 @@
+{
+    "folders": [
+        {
+            "name": "/kogames@fortnite.com/StarPilars",
+            "path": "D:/Users/Documents/DavidOld/UEFN Maps/StarPilars/Plugins/StarPilars/Content"
+        },
+        {
+            "name": "/kogames@fortnite.com/StarPilars (Assets)",
+            "path": "C:/Users/dmayo/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/StarPilars/StarPilars-Assets"
+        },
+        {
+            "name": "vproject - DO NOT MODIFY",
+            "path": "C:/Users/dmayo/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/StarPilars/vproject"
+        },
+        {
+            "name": "/Verse.org",
+            "path": "C:/Users/dmayo/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/StarPilars/Verse"
+        },
+        {
+            "name": "/UnrealEngine.com",
+            "path": "C:/Users/dmayo/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/StarPilars/UnrealEngine"
+        },
+        {
+            "name": "/Fortnite.com",
+            "path": "C:/Users/dmayo/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/StarPilars/Fortnite"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true,
+            "Collections": true,
+            "Developers": true
+        },
+        "files.autoSave": "afterDelay",
+        "workbench.colorTheme": "Visual Studio Dark - C++",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}

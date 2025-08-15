@@ -1,0 +1,51 @@
+{
+	"fileVersion": 15,
+	"versionSuffix": "",
+	"title": "StarPilars",
+	"description": "",
+	"keyArt": "",
+	"docsUrl": "",
+	"compatibilityVersion": "36.10",
+	"requiredRedirectorStartingVersion": "34.40.41753727",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"featureSet": "",
+	"plugins": [
+		{
+			"name": "StarPilars",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 12,
+			"maxTeamCount": 12,
+			"maxTeamSize": 12,
+			"maxSocialPartySize": 12,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"minPlayers": 1,
+			"overtimePlayerTarget": 1,
+			"queueMainDuration": 5,
+			"queueOvertimeDuration": 5,
+			"useSkillBasedMatchmaking": false,
+			"ratingType": "",
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "fa3f29e3-446e-786f-cf87-fc9515487aad",
+		"modules":
+		{
+			"StarPilars": "57af23f3-4e38-f420-20cf-20acc6904285"
+		},
+		"projectVersePath": "/kogames@fortnite.com/StarPilars"
+	},
+	"apiAccess": "Private"
+}
